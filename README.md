@@ -1,2 +1,2 @@
-# Statistical Computing
-Projects for the statistical computing course
+# Statistical Computing - lab 7
+Practice for lab 7
