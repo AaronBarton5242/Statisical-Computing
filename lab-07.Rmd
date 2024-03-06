@@ -15,6 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Git and GitHub
 ```{r}
 data = c(1,2,3)
+data2 = c(4,5,6)
 ```
 
 1. Follow the instructions in the notes on installing/setting up Git and GitHub.
